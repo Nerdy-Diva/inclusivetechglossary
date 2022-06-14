@@ -6,7 +6,7 @@ Inclusive language is important for building community, trust, and user adoption
 
 This is a compliation of harmful terms found in tech and inclusive alternatives collected over the years and mentioned in the talks below.
 
-This is a living resource for the developer experience community for updating our language to create more inclsuive prodcuts, services, and teams.
+This is a living resource for the developer experience community for updating our language to create more inclsuive products, services, and teams.
 
 # Goals
 To create a glossary of progressive industry standard terms and phrases.
