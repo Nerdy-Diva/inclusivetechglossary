@@ -8,6 +8,8 @@ This is a compliation of harmful terms found in tech and inclusive alternatives 
 
 This is a living resource for the developer experience community for updating our language to create more inclsuive products, services, and teams.
 
+https://docs.google.com/spreadsheets/d/1gjUK9acbpU1JNh8tiuDCaAhA-aHmz8K0eJDws55cHGo/edit?usp=sharing
+
 # Goals
 To create a glossary of progressive industry standard terms and phrases.
 To create an accessible, shareable resource for engineers, user experience practitioners, and design professionals alike.
