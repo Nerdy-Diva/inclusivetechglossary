@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Nerdy-Diva/inclusivetechglossary#readme",
   "dependencies": {
-    "pajv": "^1.2.0"
+    "ajv-cli": "^5.0.0"
   }
 }
