@@ -4,7 +4,7 @@
   "description": "Dev communities are striving to become more inclusive and equitable because it's the right thing to do and good for global business. Learn how to get started designing inclusive APIs, style guides, dev portals, and documentation today.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ajv validate -s schema.json -d list.yaml --errors=text"
   },
   "repository": {
     "type": "git",
