@@ -1,0 +1,22 @@
+{
+  "name": "@nerdydiva/inclusivetechglossary",
+  "version": "1.0.0",
+  "description": "Dev communities are striving to become more inclusive and equitable because it's the right thing to do and good for global business. Learn how to get started designing inclusive APIs, style guides, dev portals, and documentation today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nerdy-Diva/inclusivetechglossary.git"
+  },
+  "author": "Shawn Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nerdy-Diva/inclusivetechglossary/issues"
+  },
+  "homepage": "https://github.com/Nerdy-Diva/inclusivetechglossary#readme",
+  "dependencies": {
+    "pajv": "^1.2.0"
+  }
+}

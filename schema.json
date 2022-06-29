@@ -1,0 +1,18 @@
+{
+  "$id": "https://example.com/product.schema.json",
+  "title": "Terms",
+  "description": "A list of non-inclusive terms and their alternatives",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["negativeTerm", "definition"],
+    "properties": {
+      "negativeTerm": {
+        "type": "string"
+      },
+      "definition": {
+        "type": "string"
+      }
+    }
+  }
+}

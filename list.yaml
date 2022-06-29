@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=schema.json
+- negativeTerm: Black Ball
+  alternatives:
+    - Disrespectful
+    - Disgrace
+    - Blemish
+    - Stigma
+    - Disrespect
+  definition: Refers to individuals that have performed some wrong doing.
+- negative_term: Black Box
+  alternatives:
+    - Closed Box
+  definition: Refers to a project or product that is completely unknown.
+- negative_term: Black Hat		
+  alternatives:
+    - Bad Actor
+    - Illegal Hacker
+  definnition: Refers to the individual(s) involved in illegal or malicious hacking activity.
+      
+      
+      
+      
