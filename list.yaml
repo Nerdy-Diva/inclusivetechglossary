@@ -96,7 +96,8 @@
     - Manager
   definition: Used to refer to primary devices.
 - negativeTerm: Mob Programming
-  alternatives: 
+  alternatives:
+    - Ensemble Programming
     - Team Programming
     - Collaborative Programming
   definition: Refers to the individuals working together on the same project
