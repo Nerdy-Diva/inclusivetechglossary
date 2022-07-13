@@ -7,16 +7,150 @@
     - Stigma
     - Disrespect
   definition: Refers to individuals that have performed some wrong doing.
-- negative_term: Black Box
+- negativeTerm: Black Box
   alternatives:
     - Closed Box
   definition: Refers to a project or product that is completely unknown.
-- negative_term: Black Hat		
+- negativeTerm: Black Hat		
   alternatives:
     - Bad Actor
     - Illegal Hacker
-  definnition: Refers to the individual(s) involved in illegal or malicious hacking activity.
-      
-      
+  definition: Refers to the individual(s) involved in illegal or malicious hacking activity.
+- negativeTerm: Black List
+  alternatives: 
+    - Exclusion List
+    - Block List 
+    - Deny List 
+  definition: A list of resticted users, devices,etc.
+- negativeTerm: Black Mark 
+  alternatives: 
+    - Bad Mark 
+    - Blemish
+    - Taint
+  definition: Refers to individuals that have performed some wrong doing
+- negativeTerm: Black Market
+  alternatives: 
+    - Criminal Market
+    - Underground Market
+  definition: Refers to a market of illegal commerce 
+- negativeTerm: Blue Hat 
+  alternatives:
+  - Private Sector 
+  - Actor 
+  definition: Refers to an actor that work in the private sector, usually security, as opposed to public.
+- negativeTerm: Cakewalk 
+  alternatives:
+    - Simple 
+    - Easy 
+  definition: Refers to easy tasks and projects
+- negativeTerm: Dark Pattern
+  alternatives:
+    - Bad Pattern 
+    - deceptive pattern 
+  definition: Used as a catch all - It is lazy language and we can specify meaning with actual words
+- negativeTerm: Dark Web 
+  alternatives: 
+   - Secret Web 
+   - Hidden Web 
+   - Illicit Web 
+  definition: Refers to the less accessible version of the web that is often used for illegal activity.
+- negativeTerm: Grandfathered In 
+  alternatives: Inherited In 
+  definition: Refers to items, individuals, etc. that inherit some privilege or permisson after the fact. 
+- negativeTerm: Grey Box
+  alternatives:
+    - Rogue Box
+  definition: Refers to a porject or product that is somewhat known. 
+- negativeTerm: Grey Hat 
+  alternatives: 
+    - Rogue Hat
+    - Rogue Actor 
+  definition: The user is chaotic neutral/self-interested.  They may do good or bad things. 
+- negativeTerm: Lynch Mob 
+  alternatives:
+    - Unhappy Users
+    - Upset Users
+    - Angry Users 
+  definition: Refers to an angry group of people. 
+- negativeTerm: Master (Database)
+  alternatives:
+    - Main Database 
+    - Primary 
+    - Main 
+    - Manager 
+  definition: Used to refer to primary databases. 
+- negativeTerm: Master Branch 
+  alternatives:
+    - Main Branch 
+    - Live 
+    - Stable 
+    - Publish 
+    - Primary 
+    - Main 
+  definition: Used to refer to the most stable production branch or primary production branch.
+- negativeTerm: Mater Device 
+  alternatives: 
+    - Main Device
+    - Primary
+    - Main
+    - Manager
+  definition: Used to refer to primary devices.
+- negativeTerm: Mob Programming
+  alternatives: 
+    - Team Programming
+    - Collaborative Programming
+  definition: Refers to the individuals working together on the same project
+- negativeTerm: Peanut Gallery  
+  alternatives: 
+    - Economical option(s)
+    - Economical
+    - cost/savings 
+  definition: Cheapest seats in the theater, hecklers, critics
+- negativeTerm: Product Owner 
+  alternatives: 
+    - Product Agent
+    - Product Coach
+    - Product Lead
+  definition: Refers to the individual(s) responsible for advocating for a product, service, or system. Speaks for product's intrests.
+- negativeTerm: Slave (Database) 
+  alternatives: 
+    - Support Database
+    - Secondary 
+    - Support
+    - Replica
+  definition: Used to refer to secondary or supporting that rely on a main database.
+- negativeTerm: Mater Device 
+  alternatives: 
+    - Decieved/Decieving 
+    - Deceit
+    - Deceifulness
+    - Being deceitful 
+  definition: Refers to a betrayal by another individual or group.
+- negativeTerm: Uppity
+  alternatives: 
+    - Disrespectful
+  definition: Refers to individuals that are not being respectful or being arrogant. 
+- negativeTerm: White Box 
+  alternatives: 
+    - Open Box 
+  definition: Refers to a project or product that has complete documentation and details. 
+- negativeTerm: White Hat 
+  alternatives: 
+    - Good Actor 
+    - Legal Hacker
+    - Ethical Hacker
+    - Security 
+  definition: Refers to the indivdual(s) involved in legal hacking activity; audits, defense, etc.  
+- negativeTerm: White List 
+  alternatives: 
+    - Allow List
+    - Include List 
+    - Out List
+  definition: A list of allowed users, devices, etc. 
+- negativeTerm: Whitelabel 
+  alternatives: 
+    - Unbaged
+    - Custom Style Support 
+  definition: Supports the ability to indclude logos and style of various organizations. 
       
       
