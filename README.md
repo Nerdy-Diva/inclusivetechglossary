@@ -25,3 +25,20 @@ To create an accessible, shareable resource for engineers, user experience pract
 - 2021: Designing Anti-Racism, Interaction Design Association https://interaction21.ixda.org/program/workshop--shanae-chapman
 - 2020: Designing Anti-Racism, STLX Meetup https://www.youtube.com/watch?v=N_TWrCDIpTE&t=20s
 - 2020: Designing Anti-Racism, UXPA International, https://uxpa.org/diversity-and-inclusion-in-ux/, https://docs.google.com/spreadsheets/d/1V-o-8kzmk5hIoF9t7ET9w4CBDhQZax-6-oB3bhwhXdc/edit?usp=sharing 
+
+
+# STEPS TO GET STARTED:
+
+Starting the Inclusive Tech Glossary we strive to close the diversity gap within tech by creating a new standard language for everyone.  
+We want startups and small teams to be built on a strong foundation of inclusivity so we want to help you with this resource.
+
+1. Partner up with Shanae Chapman for content contact her via email shanae@nerdydiva.com 
+
+2. Take the Tech Glossary survery 
+  - We want your feedback 
+  - (use this link) https://www.surveymonkey.com/r/nerdydiva_inclusive_survey
+  
+3. Add new progressive terms to our ever growing Inclusive Tech Glossary
+  - (use this link) https://docs.google.com/spreadsheets/d/13h2p2fTMRbV0yOBIw3UNv6p16GAakLvQkznWGIZT1bk/edit#gid=0
+  - Add harmful terms and add their alternatives 
+  
