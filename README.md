@@ -1,10 +1,10 @@
 # Inclusive Tech Glossary
 
-Dev communities are striving to become more inclusive and equitable because it's the right thing to do and good for global business. Learn how to get started designing inclusive APIs, style guides, dev portals, and documentation today.
+Developer communities are striving to become more inclusive and equitable because it's the right thing to do and good for global business. Learn how to get started designing inclusive APIs, style guides, dev portals, and documentation today.
 
 Inclusive language is important for building community, trust, and user adoption. This is important for the future of work, technology and innovation moving forward sustainably. This list provides respectful alternatives to harmful language found in tech: https://docs.google.com/spreadsheets/d/1V-o-8kzmk5hIoF9t7ET9w4CBDhQZax-6-oB3bhwhXdc/edit?usp=sharing
 
-This is a compliation of harmful terms found in tech and inclusive alternatives collected over the years and mentioned in the talks below.
+This is a compilation of harmful terms found in tech and inclusive alternatives collected over the years and mentioned in the talks below.
 
 This is a living resource for the developer experience community for updating our language to create more inclusive products, services, and teams.
 
