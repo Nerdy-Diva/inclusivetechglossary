@@ -17,7 +17,7 @@ To create an accessible, shareable resource for engineers, user experience pract
 # General Strategies
 - Keep in mind everything is not on the list (yet) and this is a reference guide.
 - Swap 'color', 'hacker', and other implicit words with more explicit words such as good, bad, deceiving, disrespectful, actor, etc.
-- Start using new terminology now. These are intened to be easy exchanges and you will still be understood or can share the meaning of a term if asked.
+- Start using new terminology now. These are intended to be easy exchanges and you will still be understood or can share the meaning of a term if asked.
 
 # Additional Inclusive Design Resources
 - 2021: Designing Inclusive APIs, API Days London https://www.youtube.com/watch?v=DHTWEUc-Jko&list=LLWouOWpjx4jibVZ4HyUurWw
