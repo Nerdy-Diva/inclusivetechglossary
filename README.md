@@ -8,6 +8,9 @@ This is a compilation of harmful terms found in tech and inclusive alternatives 
 
 This is a living resource for the developer experience community for updating our language to create more inclusive products, services, and teams.
 
+View the mockup on Figma:
+https://www.figma.com/proto/4mkJDk1QUzhPzCsFwJfcw1/Wireframe-2?node-id=117%3A1938&scaling=min-zoom&page-id=63%3A3347
+
 
 
 # Goals
